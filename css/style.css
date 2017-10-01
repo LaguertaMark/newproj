@@ -6,6 +6,10 @@
 	background-repeat: repeat;
 }
 
+#nav{
+	font-size: 40px;
+	font-weight: 10px;
+}
 #nav, #feature, .article, #footer{
 	background-color: #efefef;
 	margin-top: 20px;
