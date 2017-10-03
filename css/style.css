@@ -6,9 +6,13 @@
 	background-repeat: repeat;
 }
 
+#header{
+	color: #3AFFFF;
+	margin-top: 20px;
+}
+
 a{
 	text-decoration: none;
-	color: #3AFFFF;
 }
 
 #nav{
